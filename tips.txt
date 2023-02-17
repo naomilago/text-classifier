@@ -1,0 +1,7 @@
+- Quais os tokens que mais indicam que é classe 0 ou 1? (top 15)
+  + Quais os erros? Os que mais distanciam as classes 0 ou 1? (Falso positivos e negativos)
+  - Qualquer classificação (problemas tabulares)
+
+- Verificar overlaps 
+- O que acrescentar para melhorar o modelo? 
+- POS com SpaCy (análise sintática e morfológica)
